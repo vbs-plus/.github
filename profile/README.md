@@ -3,4 +3,6 @@
     <img width="100" src="https://zerlous-images.oss-cn-hangzhou.aliyuncs.com/vbs-plus/.github/logo.png">
   </a>
 </p>
-![](https://zerlous-images.oss-cn-hangzhou.aliyuncs.com/vbs-plus/.github/main.jpg)
+<p align="center">
+  <img src="https://zerlous-images.oss-cn-hangzhou.aliyuncs.com/vbs-plus/.github/main.jpg" style="width:100%;">
+</p>
